@@ -30,5 +30,5 @@
   <a href="https://www.linkedin.com/in/cleiton-de-barros-moura-3ba1a7190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-![my_fav_gif](https://media.giphy.com/media/MZocLC5dJprPTcrm65/giphy.gif) 
+
 
