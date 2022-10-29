@@ -7,7 +7,7 @@
   
   
   
-- 🌎 Português, English, Français, Español,norsk *<br>
+- 🌎 Português, English, Français, Español <br>
 
 
 <div align="center">
