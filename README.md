@@ -27,7 +27,7 @@
    
   <img align="center" alt="Figma" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
-  <img align="center" alt="SEO" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  />
+  <img align="center" alt="wordpress" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"   />
 </div>
   
 ##
