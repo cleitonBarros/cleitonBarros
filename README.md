@@ -2,7 +2,7 @@
  <h3>Eu me chamo cleiton, sou formado em sistema de informação e atualmente estudando programação com o foco em front-end (HTML/CSS/JS) </h3>
  <h3>Je m'appelle cleiton, je suis diplômé en systèmes d’information et aujourd'hui j'étudie le programacion avec axés sur en front-end (HTML/CSS/JS) </h3>
  
- C'est parti?
+ <h3>C'est parti?</h3>
 <!--
 **cleitonBarros/cleitonBarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
