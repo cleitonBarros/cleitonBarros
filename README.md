@@ -1,7 +1,9 @@
-![banner (1)](https://github.com/cleitonBarros/cleitonBarros/assets/48657479/315cac87-83f7-461c-b6cc-d7dba64c8ee0)
-<h2  align="center" >Olá, meu nome é Cleiton, sou desenvolvedor front-end. Sou graduado em Sistemas de Informação e planejo fazer uma pós-graduação relacionada ao desenvolvimento no futuro.</h3>
+
+![banner (2)](https://github.com/cleitonBarros/cleitonBarros/assets/48657479/94c43780-a8d1-41d7-a404-5915ab6c00f4)
+
+<h3  align="justify" >Olá, meu nome é Cleiton, sou desenvolvedor front-end. Bacharel em Sistemas de Informação, conheço a parte burocratica e documental que muitas das vezes não são de conhecimento do desenvolvedor, levantamento e analise de requisitos, design patterns software, descrição de caso de uso e criaçã de diagrama UML sao algunas do habilidade que adquirir durante a faculdade, tambem gosto da parte governança de TI e Gestão de TI. Planejo fazer uma pós-graduação relacionada ao desenvolvimento e projetos no futuro e ter todas as certificação do idiomas que falo.</h3>
 <div align="center">
-  <h3>◉ Minha Stack  </h3>
+  <h3>◉ Minha Stack</h3>
   <div>
   <img style="max-width: 100%;" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img style="max-width: 100%;" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
