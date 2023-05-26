@@ -1,7 +1,9 @@
 
 ![banner (2)](https://github.com/cleitonBarros/cleitonBarros/assets/48657479/94c43780-a8d1-41d7-a404-5915ab6c00f4)
 
-<h3  align="justify" >Olá, meu nome é Cleiton, sou desenvolvedor front-end. Bacharel em Sistemas de Informação, conheço a parte burocratica e documental que muitas das vezes não são de conhecimento do desenvolvedor, levantamento e analise de requisitos, design patterns software, descrição de caso de uso e criaçã de diagrama UML sao algunas do habilidade que adquirir durante a faculdade, tambem gosto da parte governança de TI e Gestão de TI. Planejo fazer uma pós-graduação relacionada ao desenvolvimento e projetos no futuro e ter todas as certificação do idiomas que falo.</h3>
+<h3  align="justify" >Olá, meu nome é Cleiton e sou um desenvolvedor front-end. Sou formado em Sistemas de Informação e possuo conhecimentos em várias áreas além do desenvolvimento. Durante a minha graduação, adquiri habilidades relacionadas à parte burocrática e documental que muitas vezes não são amplamente conhecidas pelos desenvolvedores. Tenho experiência em levantamento e análise de requisitos, utilização de design patterns em software, descrição de casos de uso e criação de diagramas UML.</h3>
+<h3  align="justify" >
+Além disso, tenho interesse na área de governança de TI e gestão de TI. Gosto de entender como as empresas podem melhorar seus processos e adotar boas práticas na área de tecnologia da informação. No futuro, tenho planos de fazer uma pós-graduação relacionada ao desenvolvimento e projetos, além de obter certificações em todos os idiomas que falo.</h3>
 <div align="center">
   <h3>◉ Minha Stack</h3>
   <div>
