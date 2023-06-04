@@ -41,6 +41,8 @@ Além disso, tenho interesse na área de governança de TI e gestão de TI. Gost
   <a href="https://www.instagram.com/_cleitonbarros/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:cleiton.barrosmoura@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cleiton-de-barros-moura-3ba1a7190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"    target="_blank"></a>  
+  <a href="https://codepen.io/cleitonBarros" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"    target="_blank"></a>  
+    
  </div> 
 </div>
 
