@@ -1,7 +1,9 @@
 
 ![banner (2)](https://github.com/cleitonBarros/cleitonBarros/assets/48657479/94c43780-a8d1-41d7-a404-5915ab6c00f4)
 
-<h3  align="justify" >Olá, meu nome é Cleiton e sou um desenvolvedor front-end. Sou formado em Sistemas de Informação e possuo conhecimentos em várias áreas além do desenvolvimento. Durante a minha graduação, adquiri habilidades relacionadas à parte burocrática e documental que muitas vezes não são amplamente conhecidas pelos desenvolvedores. Tenho experiência em levantamento e análise de requisitos, utilização de design patterns em software, descrição de casos de uso e criação de diagramas UML.</h3>
+<h3  align="justify" >Olá, meu nome é Cleiton e sou um desenvolvedor front-end. Minha principal stack é ReactJS com TypeScript e styled-components, para mais, tenho experiência com várias outras tecnologias e ferramentas, incluindo HTML, CSS, SASS, Bootstrap, Tailwind, JavaScript, PHP, React Native, Vue.js, Figma e WordPress. </h3>
+<h3  align="justify" >
+Sou formado em Sistemas de Informação e possuo conhecimentos em várias áreas além do desenvolvimento. Durante a minha graduação, adquiri habilidades relacionadas à parte burocrática e documental que muitas vezes não são amplamente conhecidas pelos desenvolvedores. Tenho experiência em levantamento e análise de requisitos, utilização de design patterns em software, descrição de casos de uso e criação de diagramas UML.</h3>
 <h3  align="justify" >
 Além disso, tenho interesse na área de governança de TI e gestão de TI. Gosto de entender como as empresas podem melhorar seus processos e adotar boas práticas na área de tecnologia da informação. No futuro, tenho planos de fazer uma pós-graduação relacionada ao desenvolvimento e projetos, além de obter certificações em todos os idiomas que falo.</h3>
 <div align="center">
@@ -17,6 +19,8 @@ Além disso, tenho interesse na área de governança de TI e gestão de TI. Gost
   <img style="max-width: 100%;" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img style="max-width: 100%;" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img style="max-width: 100%;" src="	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> 
+  <img style="max-width: 100%;" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5"/> 
+    
  </div>
  <h3>◉ Quero aprender  </h3>
   <div>
@@ -25,7 +29,6 @@ Além disso, tenho interesse na área de governança de TI e gestão de TI. Gost
   <img style="max-width: 100%;" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
   <img style="max-width: 100%;" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>  
   <img style="max-width: 100%;" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>  
-  <img style="max-width: 100%;" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5"/> 
   <img style="max-width: 100%;" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/> 
    
  </div> 
@@ -34,7 +37,7 @@ Além disso, tenho interesse na área de governança de TI e gestão de TI. Gost
   <img style="width:35px;" src="https://cdn.icon-icons.com/icons2/1694/PNG/512/brbrazilflag_111698.png"/>
   <img style="width:35px;" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/05/bandeira-estados-unidos.jpg"/>
   <img style="width:35px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgXFQonGupMSBEkVH5xstBMYdIqbjFr0Qpg&usqp=CAU"/>
-  <img style="width:35px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/255px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png"/>   
+  <img style="width:35px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%29.svg/1200px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%29.svg.png"/>   
  </div> 
   <h3>◉ Onde me encontrar </h3>
   <div>
