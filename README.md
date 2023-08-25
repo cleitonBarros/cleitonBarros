@@ -17,20 +17,24 @@ Além disso, tenho interesse na área de governança de TI e gestão de TI. Gost
   <img style="max-width: 100%;" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img style="max-width: 100%;" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
   <img style="max-width: 100%;" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img style="max-width: 100%;" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>    
   <img style="max-width: 100%;" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img style="max-width: 100%;" src="	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> 
   <img style="max-width: 100%;" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5"/> 
     
  </div>
- <h3>◉ Quero aprender  </h3>
+ <h3>◉ Aprendendo  </h3>
   <div>
   <img style="max-width: 100%;" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img style="max-width: 100%;" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+ </div> 
+ <h3>◉ Quero aprender  </h3>
+  <div>
   <img style="max-width: 100%;" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img style="max-width: 100%;" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
   <img style="max-width: 100%;" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>  
   <img style="max-width: 100%;" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>  
   <img style="max-width: 100%;" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/> 
-   
  </div> 
   <h3>◉ Idiomas </h3>
   <div>
