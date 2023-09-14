@@ -27,6 +27,11 @@ Além disso, tenho interesse na área de governança de TI e gestão de TI. Gost
   <div>
   <img style="max-width: 100%;" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img style="max-width: 100%;" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img style="max-width: 100%;" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img style="max-width: 100%;" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  
+  
+    
  </div> 
  <h3>◉ Quero aprender  </h3>
   <div>
