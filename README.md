@@ -33,7 +33,7 @@ Além disso, tenho interesse na área de governança de TI e gestão de TI. Gost
   
     
  </div> 
- <h3>◉ Quero aprender  </h3>
+ <p>◉ Quero aprender  </p>
   <div>
   <img style="max-width: 100%;" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img style="max-width: 100%;" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
@@ -41,7 +41,7 @@ Além disso, tenho interesse na área de governança de TI e gestão de TI. Gost
   <img style="max-width: 100%;" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>  
   <img style="max-width: 100%;" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/> 
  </div> 
-  <h3>◉ Idiomas </h3>
+  <p>◉ Idiomas </p>
   <div>
   <img style="width:35px;" src="https://cdn.icon-icons.com/icons2/1694/PNG/512/brbrazilflag_111698.png"/>
   <img style="width:35px;" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/05/bandeira-estados-unidos.jpg"/>
