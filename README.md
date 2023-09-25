@@ -4,8 +4,8 @@
 <h3  align="justify" >Olá, meu nome é Cleiton e sou um desenvolvedor front-end. Minha principal stack é ReactJS com TypeScript e styled-components, para mais, tenho experiência com várias outras tecnologias e ferramentas, incluindo HTML, CSS, SASS, Bootstrap, Tailwind, JavaScript, PHP, React Native, Vue.js, Figma e WordPress. </h3>
 <h3  align="justify" >
 Sou formado em Sistemas de Informação e possuo conhecimentos em várias áreas além do desenvolvimento. Durante a minha graduação, adquiri habilidades relacionadas à parte burocrática e documental que muitas vezes não são amplamente conhecidas pelos desenvolvedores. Tenho experiência em levantamento e análise de requisitos, utilização de design patterns em software, descrição de casos de uso e criação de diagramas UML.</h3>
-<h3  align="justify" >
-Além disso, tenho interesse na área de governança de TI e gestão de TI. Gosto de entender como as empresas podem melhorar seus processos e adotar boas práticas na área de tecnologia da informação. No futuro, tenho planos de fazer uma pós-graduação relacionada ao desenvolvimento e projetos, além de obter certificações em todos os idiomas que falo.</h3>
+<p  align="justify" >
+Além disso, tenho interesse na área de governança de TI e gestão de TI. Gosto de entender como as empresas podem melhorar seus processos e adotar boas práticas na área de tecnologia da informação. No futuro, tenho planos de fazer uma pós-graduação relacionada ao desenvolvimento e projetos, além de obter certificações em todos os idiomas que falo.</p>
 <div align="center">
   <h3>◉ Minha Stack</h3>
   <div>
