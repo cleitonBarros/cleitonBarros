@@ -25,7 +25,6 @@ Além disso, tenho interesse na área de governança de TI e gestão de TI. Gost
  </div>
  <p>◉ Aprendendo  </p>
   <div>
-  <img style="max-width: 100%;" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img style="max-width: 100%;" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img style="max-width: 100%;" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img style="max-width: 100%;" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -35,8 +34,6 @@ Além disso, tenho interesse na área de governança de TI e gestão de TI. Gost
  </div> 
  <p>◉ Quero aprender  </p>
   <div>
-  <img style="max-width: 100%;" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img style="max-width: 100%;" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
   <img style="max-width: 100%;" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>  
   <img style="max-width: 100%;" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>  
   <img style="max-width: 100%;" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/> 
