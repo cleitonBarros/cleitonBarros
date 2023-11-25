@@ -25,18 +25,13 @@ Além disso, tenho interesse na área de governança de TI e gestão de TI. Gost
  </div>
  <p>◉ Aprendendo  </p>
   <div>
-  <img style="max-width: 100%;" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img style="max-width: 100%;" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img style="max-width: 100%;" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  
-  
-    
+  <img style="max-width: 100%;" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/> 
+
  </div> 
  <p>◉ Quero aprender  </p>
   <div>
   <img style="max-width: 100%;" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>  
   <img style="max-width: 100%;" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>  
-  <img style="max-width: 100%;" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/> 
  </div> 
   <p>◉ Idiomas </p>
   <div>
